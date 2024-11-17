@@ -1,0 +1,42 @@
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\12 ejersicios\isr de empleado\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll
