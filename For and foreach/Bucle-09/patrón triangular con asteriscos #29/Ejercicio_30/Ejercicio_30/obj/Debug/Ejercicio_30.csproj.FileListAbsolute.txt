@@ -1,0 +1,7 @@
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+C:\Users\Marcos\Desktop\algoritmos gama\12 ejersicios\patrón triangular con asteriscos #29\Ejercicio_30\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
