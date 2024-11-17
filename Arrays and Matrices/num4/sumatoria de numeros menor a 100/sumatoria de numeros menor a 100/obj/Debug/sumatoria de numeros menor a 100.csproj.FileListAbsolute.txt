@@ -1,0 +1,7 @@
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\bin\Debug\sumatoria de numeros menor a 100.exe.config
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\bin\Debug\sumatoria de numeros menor a 100.exe
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\bin\Debug\sumatoria de numeros menor a 100.pdb
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\obj\Debug\sumatoria de numeros menor a 100.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\obj\Debug\sumatoria de numeros menor a 100.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\obj\Debug\sumatoria de numeros menor a 100.exe
+C:\Users\Marcos\Desktop\githop\array and matrices\sumatoria de numeros menor a 100\sumatoria de numeros menor a 100\obj\Debug\sumatoria de numeros menor a 100.pdb
