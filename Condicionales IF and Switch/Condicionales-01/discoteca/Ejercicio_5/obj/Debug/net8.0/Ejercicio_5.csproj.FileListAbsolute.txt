@@ -1,0 +1,70 @@
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.exe
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.deps.json
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.runtimeconfig.json
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\refint\Ejercicio_5.dll
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\IK\Desktop\Ejercicios RA1\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\ref\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.exe
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.deps.json
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.runtimeconfig.json
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\refint\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Materias\Desarrollo de aplicaciones\Ejercicios RA1 - copia.rar\Ejercicio_5\Ejercicio_5\obj\Debug\net8.0\ref\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.exe
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.deps.json
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.runtimeconfig.json
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\refint\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio2\Ejercicio_5\obj\Debug\net8.0\ref\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.exe
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.deps.json
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.runtimeconfig.json
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\refint\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\1 de obtubre\Ejercicio3\Ejercicio_5\obj\Debug\net8.0\ref\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.exe
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.deps.json
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.runtimeconfig.json
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\bin\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\refint\Ejercicio_5.dll
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.pdb
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\Ejercicio_5.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\1 de obtubre\discoteca\Ejercicio_5\obj\Debug\net8.0\ref\Ejercicio_5.dll
