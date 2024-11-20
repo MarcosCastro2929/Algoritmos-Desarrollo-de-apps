@@ -1,7 +1,0 @@
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\bin\Debug\Prueva tecnica 02.exe.config
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\bin\Debug\Prueva tecnica 02.exe
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\bin\Debug\Prueva tecnica 02.pdb
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\obj\Debug\Prueva tecnica 02.csproj.AssemblyReference.cache
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\obj\Debug\Prueva tecnica 02.csproj.CoreCompileInputs.cache
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\obj\Debug\Prueva tecnica 02.exe
-C:\Users\Marcos\Desktop\algoritmos gama\Pruevas tecnicas\Prueva tecnica 1\Prueva tecnica 02\Prueva tecnica 02\obj\Debug\Prueva tecnica 02.pdb
