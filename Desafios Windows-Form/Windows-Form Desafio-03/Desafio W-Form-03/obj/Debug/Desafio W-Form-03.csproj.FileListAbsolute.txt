@@ -1,0 +1,20 @@
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.exe.config
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.exe
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.pdb
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio_W_Form_03.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio_W_Form_03.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.exe
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.pdb
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.exe.config
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.exe
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\bin\Debug\Desafio W-Form-03.pdb
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio_W_Form_03.Form1.resources
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio_W_Form_03.Properties.Resources.resources
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.exe
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-03\Desafio W-Form-03\obj\Debug\Desafio W-Form-03.pdb
