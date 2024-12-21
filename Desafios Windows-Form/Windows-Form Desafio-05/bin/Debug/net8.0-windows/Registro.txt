@@ -1,0 +1,1 @@
+Nombre	Sueldo	Incentivo	Sueldo_+_Incentivo	AFP	SFS	ISR	OTROS	Total descuento	Sueldo Neto

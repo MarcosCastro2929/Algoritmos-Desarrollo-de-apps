@@ -1,0 +1,51 @@
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.exe
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.deps.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\_05_Desafio_GUi.Form1.resources
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.GenerateResource.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.sourcelink.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\refint\05-Desafio GUi.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\ref\05-Desafio GUi.dll
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.exe
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.deps.json
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\bin\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\_05_Desafio_GUi.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\refint\05-Desafio GUi.dll
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\05-Desafio GUi.genruntimeconfig.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\ref\05-Desafio GUi.dll
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\05-Desafio GUi\obj\Debug\net8.0-windows\_05_Desafio_GUi.Properties.Resources.resources
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\bin\Debug\net8.0-windows\05-Desafio GUi.exe
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\bin\Debug\net8.0-windows\05-Desafio GUi.deps.json
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\bin\Debug\net8.0-windows\05-Desafio GUi.runtimeconfig.json
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\bin\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\bin\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\_05_Desafio_GUi.Form1.resources
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\_05_Desafio_GUi.Properties.Resources.resources
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.dll
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\refint\05-Desafio GUi.dll
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.pdb
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\05-Desafio GUi.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\interfaz grafica\Interfaz Grafica\Interfaz Grafica\Desafio W-Form-05\obj\Debug\net8.0-windows\ref\05-Desafio GUi.dll
